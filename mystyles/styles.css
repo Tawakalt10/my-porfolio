@@ -7,6 +7,24 @@
 body {
     background-color: #151515;
 }
+.footer{
+    text-align: center;
+}
+.social-icons i {
+    margin: 10px 20px;
+    color: #fff;
+    font-size: 20px;
 
+}
 
+.inspired{
+    color: #777778;
+    font-size: 15px;
+    margin: 10px 20px;
 
+}
+
+.inspired span {
+    color: #e2e2e2;
+    font-size: 15px;
+}
