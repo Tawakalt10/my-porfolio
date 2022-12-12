@@ -9,42 +9,4 @@ body {
 }
 
 
-span {
-    color: #bcbcbc;
-}
 
-
-.about-me {
-   color: #777778;
-   margin-left: 5rem;
-}
-
-.name {
-    color: #ffffff;
-    margin-top: 7rem;
-    margin-left: 5rem;
-    font-size: 2rem;
-    
-}
-
-.social-icons {
-    display: flex;
-    margin-left: 5rem;
-   
-}
-
-.social-icons-list {
-    display: flex;
-    list-style: none;
-    
-}
-
-.social-link {
-    color: #bcbcbc;
-    text-decoration: none;
-    margin-right: 1rem; 
-    list-style-type: none;
-}
-
-
-}
