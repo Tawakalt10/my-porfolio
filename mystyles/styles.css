@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Acme&family=Lobster&family=Poppins:wght@300;400;500&display=swap');
+
+
 * {
     margin: 0;
     padding: 0;
@@ -6,6 +9,7 @@
 
 body {
     background-color: #151515;
+    font-family: 'Poppins', sans-serif;
 }
 .footer{
     text-align: center;
